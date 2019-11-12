@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "microplugin": "0.0.3",
-    "sifter": "^0.5.1"
+    "phoenix-group-of-virginia/sifter.js": "^0.5.4"
   },
   "devDependencies": {
     "chai": "^3.5.0",
